@@ -10,6 +10,7 @@ public class Student {
 		        System.out.println("I am Learning git ");
 		        System.out.println("I am learning git dif");
 		        System.out.println("I am learning git show");
+		        System.out.println("github stuyed sucessfully");
 
 		        System.out.println("Student Name: Naveen");
 		        System.out.println("Student ID: 101");
